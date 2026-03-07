@@ -1,55 +1,30 @@
-# 📊 Cientista de Dados - EBAC
+# :computer: Cientista de Dados - EBAC 
 
 Repositório com exercícios e projetos desenvolvidos durante o curso
 **Profissão: Cientista de Dados (EBAC)**.
 
-## 📚 Conteúdo do Repositório
+## :file_folder: Conteúdo
 
-### Fundamentos
-- Introdução à ciência de dados
-- Conceitos de Machine Learning
-- Programação em Python
+- Fundamentos de Ciências de Dados e Machine Learning
+- Python para Análise de Dados
+- Fundamentos da Descoberta de Dados
+- Preparação de Dados
+- Primeiros Modelos
+- Aprofundamento de Análise
+- Modelos Avançados
+- Conceitos Avançados da modelagem estastística
+- Técnicas Avançadas de Machine Learning
+   
+---
 
-### Análise de Dados
-- Pandas
-- Limpeza e preparação de dados
-- Análise exploratória
+## ⚙️ Linguagens e Tecnologias
 
-### Machine Learning
-- Árvores de decisão
-- Modelos de classificação
-- Modelos ensemble
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="ScikitLearn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-### Estatística e Modelagem
-- Regressão
-- Modelagem estatística
-- Avaliação de modelos
+<br><br>
 
-## 🛠 Tecnologias
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- SQL
-- Power BI
-
-## 📂 Projetos
-
-1. Classificação de crédito
-2. Tratamento de transações bancárias
-3. Análise descritiva em dados médicos
-4. Árvores de decisão
-5. Ensemble learning
-6. Classificação de atividades humanas
-
-## 🎯 Objetivo
-
-Desenvolver habilidades em:
-
-- análise de dados
-- modelagem estatística
-- machine learning
-- visualização de dados
+⭐ *Portfólio desenvolvido durante a formação em Ciência de Dados pela EBAC.*
