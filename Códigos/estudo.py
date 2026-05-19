@@ -1,0 +1,5 @@
+# Entendimento da linha print (response.text[:600])
+texto = 'Extrair mensagem de texto'
+
+subtexto = texto [8:]
+print (subtexto)
