@@ -27,4 +27,4 @@ Repositório com exercícios e projetos desenvolvidos durante o curso
 
 <br><br>
 
-⭐ *Portfólio desenvolvido durante a formação em Ciência de Dados pela EBAC.*
+⭐ *Portfólio desenvolvido durante a formação em Ciência de Dados pela EBAC*
